@@ -115,3 +115,80 @@ b) Take opportunities to provide detached and semi-detached family homes which a
 
 c) Within South Leamington, seek to rebalance the existing rented/owner occupied mix by the provision of homes for affordable owner occupation.
 
+## Policy RLS6 - Protection of Community Facilities
+
+The community facilities identified on Figure 8 (summary) and Figures 8a-8d and indexed at Appendix 1 will be protected in accordance with Local Plan Policy HS8.
+Proposals for new and improved community facilities will be supported where they are in accordance with other neighbourhood and development plan policies.
+
+(Summariser's note: Look in the original document for the figures and appendices - it's just maps and a long list of community facilities like churches, schools, the Spa Centre, etc.)
+
+## Policy RLS7 – Public Art
+
+Development proposals incorporating new public spaces, or creating new frontages to public spaces and thoroughfares, are encouraged to make these spaces and frontages distinct and visually and physically interesting by including and integrating public art.
+
+## Policy RLS8 - Protecting Local Green Space
+
+The following local green spaces as shown on the Policies Map (and indexed with designation details in Appendix 2) are designated.
+
+- RLS8/1 - Jephson Gardens RLS8/2 - Mill Gardens
+- RLS8/3 - Pump Room Gardens RLS8/4 - Victoria Park
+- RLS8/5 - Holly Walk
+- RLS8/6 - Christchurch Gardens
+- RLS8/7 - The Dell
+- RLS8/8 - Foundry Wood
+- RLS8/9 - New Street Burial Ground
+- RLS8/10 - Clarendon Square
+- RLS8/11 - Strathearn Gardens
+- RLS8/12 - The Holt
+- RLS8/13 - Mason Avenue Park
+- RLS8/14 - Cubbington Waterworks
+- RLS8/15 - Midland Oak
+- RLS8/16 - The Old Brickyard play area
+- RLS8/17 - Eagle Recreation Ground
+- RLS8/18 - Redlands Recreation Ground
+- RLS8/19 - Welches Meadow
+- RLS8/20 - Crabtree Meadow
+- RLS8/21 - Edmondscote Field
+- RLS8/22 - Fords Field
+- RLS8/23 - Radford Brook (also known as Whitnash North Brook) RLS8/24 - Calder Walk play area
+- RLS8/25 - Elizabeth Road play area
+- RLS8/26 - Wych Elm Drive
+- RLS8/27 - Dragon Cottage play area
+- RLS8/28 – Rushmore Street play area
+
+Development on the Local Green Spaces will not be supported other than in very special circumstances.
+
+## Policy RLS9- Protecting Open Spaces
+
+The following open spaces as shown on the Policies Map will be protected in line with Policy HS2 Protecting Open Space, Sport and Recreation Facilities of the Warwick District Local Plan.
+
+- RLS9/1 - Portobello Field, behind Riversleigh Road
+- RLS9/2 - Beverley Road green space road refuge
+- RLS9/3 - Avonside Play Areas (North and South)
+- RLS9/4 - SYDNI play area/open space, behind the SYDNI centre
+- RLS9/5 - Riverside Walk (length of through Leam, not shown on Policies Map)
+- RLS9/6 - Newbold Terrace East open space RLS9/7 - Euston Place
+- RLS9/8 - Maxstoke Gardens, off Tachbrook Rd RLS9/9 - Chestnut Square, off Gresham Ave RLS9/10 - Haddon Road open space
+- RLS9/11 - Roxburgh Croft
+- RLS9/12 - Chesterton Drive spinney
+- RLS9/13 - Canalside sitting area, Old Warwick Road
+- RLS9/14 - Almond Avenue open space
+- RLS9/15 - Kennedy Square, off St Paul’s Square behind Lansdowne Street
+- RLS9/16 - Fallow Hill play area
+- RLS9/17 - St Fremund Way open space
+- RLS9/18 - College Park open space
+- RLS9/19 - Hastang Fields open space
+- RLS9/20 - Warneford Green
+- RLS9/21 – Clapham Terrace open space
+- RLS9/22 – Windmill Road play area
+
+## Policy RLS10 – Allotments
+
+The following allotment areas as shown on the Policies Map will be protected in line with Policy HS2 Protecting Open Space, Sport and Recreation Facilities of the Warwick District Local Plan.
+
+- RLS10/1 - Northumberland Road, (Binswood Allotment Association) 
+- RLS10/2 - Northumberland Road (Milverton New Allotments Association)
+- RLS10/3 - St Mary’s Allotments, Radford Road
+- RLS10/4 - Campion Hills
+- RLS10/5 - Rugby Road between Gaveston Road and St Mark’s Church
+
