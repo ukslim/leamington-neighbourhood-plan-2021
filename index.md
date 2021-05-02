@@ -2,13 +2,13 @@
 
 On 6th May 2021 we are being asked to vote on the Neighbourhood Plan for Leamington Spa.
 
-Here is Warwick District Council's home for all information about the plan: https://www.leamingtonspatowncouncil.gov.uk/Neighbourhood-Plan-.aspx
+Here is Warwick District Council's home for all information about the plan: [Link](https://www.leamingtonspatowncouncil.gov.uk/Neighbourhood-Plan-.aspx)
 
-Here is an information statement for voters, direct from the WDC web page: https://www.leamingtonspatowncouncil.gov.uk/controls/DownloadDocument.ashx?docID=gd3430IVSVBFMTUTVI1658vNov&aID=2484 
+Here is an information statement for voters, direct from the WDC web page: [Link](https://www.leamingtonspatowncouncil.gov.uk/controls/DownloadDocument.ashx?docID=gd3430IVSVBFMTUTVI1658vNov&aID=2484)
 
-Here is the final full plan: https://www.leamingtonspatowncouncil.gov.uk/controls/DownloadDocument.ashx?docID=dr6794ESZZQYFMJGJR5648aHwu&aID=2484 
+Here is the final full plan: [Link](https://www.leamingtonspatowncouncil.gov.uk/controls/DownloadDocument.ashx?docID=dr6794ESZZQYFMJGJR5648aHwu&aID=2484)
 
-The Leamington Neighbourhood Plan lives alongside the Warwick District Plan, which has already been adopted, and is here: https://www.warwickdc.gov.uk/info/20410/new_local_plan - a lot of the Neighbourhood plan is about classifying areas of Leamington. The details of what that classification means is in the district plan.
+The Leamington Neighbourhood Plan lives alongside the Warwick District Plan, which has already been adopted, and is here: [Link](https://www.warwickdc.gov.uk/info/20410/new_local_plan) - a lot of the Neighbourhood plan is about classifying areas of Leamington. The details of what that classification means is in the district plan.
 
 ## What's on this page?
 
