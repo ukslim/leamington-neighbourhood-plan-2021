@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Leamington Neighbourhood Plan 2021 - The Hartnup Summary
 
-You can use the [editor on GitHub](https://github.com/ukslim/leamington-neighbourhood-plan-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+On 6th May 2021 we are being asked to vote on the Neighbourhood Plan for Leamington Spa.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is Warwick District Council's home for all information about the plan: https://www.leamingtonspatowncouncil.gov.uk/Neighbourhood-Plan-.aspx
 
-### Markdown
+Here is an information statement for voters, direct from the WDC web page: https://www.leamingtonspatowncouncil.gov.uk/controls/DownloadDocument.ashx?docID=gd3430IVSVBFMTUTVI1658vNov&aID=2484 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is the final full plan: https://www.leamingtonspatowncouncil.gov.uk/controls/DownloadDocument.ashx?docID=dr6794ESZZQYFMJGJR5648aHwu&aID=2484 
 
-```markdown
-Syntax highlighted code block
+The Leamington Neighbourhood Plan lives alongside the Warwick District Plan, which has already been adopted, and is here: https://www.warwickdc.gov.uk/info/20410/new_local_plan - a lot of the Neighbourhood plan is about classifying areas of Leamington. The details of what that classification means is in the district plan.
 
-# Header 1
-## Header 2
-### Header 3
+## What's on this page?
 
-- Bulleted
-- List
+The final plan document is 107 pages long, and I've seen people complain that it's incomprehensible waffle. So here I seek to extract the core part that you're voting on, without the waffle.
 
-1. Numbered
-2. List
+## How have you done that?
 
-**Bold** and _Italic_ and `Code` text
+The first 24 pages of the document is essentially introductory background - including a pretty lengthy description of the town and its history. The last 30-ish pages is appendices. So I've skipped all those. The rest is the plan itself.
 
-[Link](url) and ![Image](src)
-```
+The plan is a set of policies, which the council planning committee will use to guide them for the next 10 years. The rest of the document contains these policies, which is what you are voting on, plus "Objectives" and "Backround/Justification". I've trimmed off the objectives, background and justification, keeping only the policies themselves. If you the policies don't make sense to you, I encourage you to use the full document to find out. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Who are you?
 
-### Jekyll Themes
+I'm a Warwick resident (I don't get to vote on this), with no connection to the council, and no commercial interest in anything affected by the plan. I'm interested because I spend a lot of time in Leamington.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ukslim/leamington-neighbourhood-plan-2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Shouldn't the council have done this?
 
-### Support or Contact
+Maybe, but maybe they had good reasons not to. I don't know. It doesn't matter, I've done it now.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## How do I know this is accurate?
+
+I've tried my best, but if you have doubts, go to the full document from Warwick District Council.
+
+## Get on with it.
+
+OK, here goes:
+
+# Summary of the Neighbourhood Plan policies
+
+## Policy RLS1 – Housing Development Within the Royal Leamington Spa Urban Area
+
+Proposals for new housing development within the Royal Leamington Spa Urban Area, as defined in the adjacent Figure 6, will be supported for the following:
+
+1. Re-use of previously developed land and buildings when not in conflict with other development plan policies.
+2. Infill development that is of an appropriate scale and that does not lead to the loss of residential gardens (unless in accordance with Policy H1 of the Warwick District Local Plan), overdevelopment, or have a significant adverse impact on the amenity of adjacent existing
+occupiers and uses.
+3. Proposals for custom and self-build housing provision that are
+acceptable when assessed against Warwick District Local Plan Policy
+H15.
+4. Proposals for purpose-built student accommodation when positively
+assessed against all related development plan requirements and guidance.
+Within the Court Street area (as defined in allocation H16 of the Warwick District Local Plan) community-led housing and the provision of live/work units will be supported.
+
+Development proposals for previously developed land, where appropriate, should undertake a surface water outfall assessment, following the Drainage Hierarchy (National Planning Practice Guidance , paragraph 80) to determine if there are viable alternatives to existing connections to the combined sewer network.
+
