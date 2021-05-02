@@ -192,3 +192,45 @@ The following allotment areas as shown on the Policies Map will be protected in 
 - RLS10/4 - Campion Hills
 - RLS10/5 - Rugby Road between Gaveston Road and St Mark’s Church
 
+## Policy RLS11 – Leisure, Sport and Recreation Facilities
+
+The following leisure, sport and recreation facilities also identified on the Policies Map will be protected in accordance with Warwick District Local Plan Policy HS2 Protecting Open Space, Sport and Recreation Facilities:
+
+- RLS11/1 – Newbold Comyn Leisure Centre
+- RLS11/2 – Newbold Comyn Golf Course
+- RLS11/3 – Leamington Sailing Club
+- RLS11/4 – Newbold Comyn Skate Park
+- RLS11/5 – Newbold Comyn playing fields
+- RLS11/6 – Tennis courts, Christchurch Gardens, Beauchamp Avenue 
+- RLS11/7 – Royal Leamington Spa Lawn Tennis and Squash Club 
+- RLS11/8 – Campion Hills, BMX Track
+- RLS11/9 – Avenue Bowls Club 
+- RLS11/10 – Lillington Bowling Club 
+- RLS11/11 - Leamington Cricket Club 
+- RLS11/12 – Victoria Park
+
+## Policy RLS12 – Air Quality
+
+Any development that results in significant negative impacts, including cumulative impacts, on air quality within the Old Town Leamington Spa Air Quality Management Area (identified in Figure 10) or on the health and wellbeing of people in the area as a result of pollution should be supported by an air quality assessment and, where necessary, a mitigation plan to demonstrate practical and effective measures to be taken to avoid the adverse impacts.
+
+## Policy RLS13 – Traffic and Transport
+
+To make Royal Leamington Spa a cleaner, safer and healthier town, where appropriate, development proposals should address and contribute to the achievement of the following improvements:
+
+1. New bus infrastructure associated with any future Park and Ride, north of Leamington Spa
+2. Provision of a bus/rail interchange at Royal Leamington Spa Railway Station.
+3. Measures to improve the air quality of Bath Street and the High Street, and the environment for walking, cycling and public transport in the Bath Street/High Street/Spencer Street area.
+4. Junction improvements at the following locations:
+ 
+-  i Princes Drive - to ease congestion at the Princes Drive recycling
+centre.
+- ii Princes Drive/Warwick New Road - to reduce the existing
+potential for road accidents at this roundabout and improve the
+flow of traffic between Leamington and Warwick.
+- iii Rugby Road/Northumberland Road/Lillington Avenue/Binswood
+Street - to improve the existing roundabout and signage to
+reduce road accidents and driver confusion.
+- iv Kenilworth Road/Lillington Avenue - to enable better flow of
+traffic from all four directions at this significant central junction.
+- v Beauchamp Hill/Clarendon Place/Clarendon Square - to improve
+the effective flow of traffic from Beauchamp Hill and Clarendon Ave onto Clarendon Place and Clarendon Square, particularly during peak times.
