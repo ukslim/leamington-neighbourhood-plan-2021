@@ -234,3 +234,106 @@ reduce road accidents and driver confusion.
 traffic from all four directions at this significant central junction.
 - v Beauchamp Hill/Clarendon Place/Clarendon Square - to improve
 the effective flow of traffic from Beauchamp Hill and Clarendon Ave onto Clarendon Place and Clarendon Square, particularly during peak times.
+
+## Policy RLS14 – Cycling
+
+Improvement of the town’s existing network of cycle routes will be supported. Where possible new links to this existing network should be created, preferably segregated from traffic. In particular improved connections will be supported within Leamington and to neighbouring areas, such as Warwick, Whitnash, Kenilworth (K2L) and Lillington; and safer routes to schools, such as the shared pedestrian and cycling route along Radford Road.
+
+Where the loss of a cycle route is proposed this will not be supported unless a satisfactory alternative route is provided.
+
+Proposals to extend the network of safe and convenient cycle routes for all abilities, including the creation of on-pavement lanes where no other option is available will be supported. The provision of cycle racks and secure and weather-protected cycling storage at key locations, such as the town centre, railway station and local shopping centres, will be supported.
+
+## Policy RLS15 – Canal and Riverside Development
+
+Along the riverside of the River Leam, River Avon or along the canalside of the Grand Union Canal, to be supported each development proposal should demonstrate that it has appropriately addressed the following, where relevant:
+
+- a) protects or enhances watercourses and their associated green infrastructure and habitats;
+- b) respectstheheritageandsettingofthecanal,CanalConservationArea or riverside area;
+- c) flood risk is assessed and, along the riverside, the natural storage of floodwater on floodplains is protected or restored;
+- d) creates accessible linear routes along the river and canalside or retains the potential to create such routes in the future;
+- e) protects and creates new access points for all users for walking and cycling;
+- f) maintains and opens new views and vistas over and along the river and canal;
+- g) includes environmental improvements (open spaces, stopping points, low-level lighting, signage etc.) along the river and canal towpaths;
+- h) creates new links to the wider Green Infrastructure Network and enhances biodiversity;
+- i) provides facilities to support the growth and development of recreation and tourism; and
+- j) supports the wider regeneration aspirations of the Creative Quarter.
+
+Proposals for a marina on the Grand Union Canal will be supported with ancillary leisure uses where this is in accordance with development plan policies.
+
+Proposals for hydropower will be supported when in accordance with Warwick District Local Plan Policy CC2 Planning for Renewable Energy and Low Carbon Generation.
+
+## Policy RLS16 – Royal Leamington Spa Town Centre
+
+Development proposals within the defined Town Centre (Figure 11), where appropriate, should address and contribute to the achievement of the following:
+
+- a) Environmental and highway improvements along throughroutes and at gateway points into the town centre as shown on the Policies Map;
+- b) Creation of a central open space, or a network of spaces, to support outdoors events and civic functions;
+- c) Existing off-street car parking should be retained unless it is appropriately replaced or it is robustly demonstrated that demand for all or some of the spaces no longer exists;
+- d) New and replacement shop fronts should retain and enhance the Town Centre’s distinctive character and be designed to be of a size and form that does not obscure and retains the traditional features of the host building; and
+- e) Vacant spaces above shops should be brought back into appropriate uses or retained in use which may require the provision of a suitably designed separate access.
+
+## Policy RLS17 – Royal Leamington Spa Creative Quarter
+
+Proposals for development within the Royal Leamington Spa Creative Quarter, identified on the Policies Map, will be supported when they address as appropriate the following:
+
+- a) Improved links between the Old and New Town sides of the River Leam, particularly pedestrian and cycle links;
+- b) Environmental improvements to key buildings, frontages, through routes and gateway points;
+- c) Improvements to shopfronts in a manner consistent with Policy RLS16 and other development plan policy;
+- d) Re- use of empty buildings and use upper floors in accordance with other development plan policy;
+- e) Improved and new access points to the riverside and canalside; and
+- f) Improved routes and access to and from the Railway Station.
+
+To further the development of the Creative Quarter development for the following uses will be supported when it is in accordance with Warwick District Local Plan policy:
+
+- i. Business development (use Class B1);
+- ii. Food/drink uses (Use Class A3);
+- iii. Assembly and Leisure uses (Use Class D2);
+- iv. Community/Event Space;
+- v. Small units/incubator units and step up units or grow on space for businesses that are expanding;
+- vi. Medium sized office spaces;
+- vii. studio and co-working space for small businesses, artists and makers; and
+- viii. Temporary uses that bring back into use empty buildings and spaces.
+
+Redevelopment of the following key opportunity sites for the uses listed in i) to
+viii) above will be supported:
+
+- Spencer Yard
+- United Reform Church
+- Town Hall
+- Althorpe St Area
+- Old Post Office (Priory Terrace)
+- Bath Place Car Park – providing the requirements of Policy RLS16 of the RLSNDP can be met.
+
+## Policy RLS18 – Secondary Retail Areas within the Creative Quarter
+
+Change of Use from shops (Use Class A1) to financial and professional services (Use Class A2), or restaurants and cafes (Use Class A3), or drinking establishments (Use Class A4), or hot food takeaways (Use Class A5), or hotels (Use Class C1), or leisure and assembly uses (Use Class D2) will be permitted within Secondary Retail Areas as defined in the adopted Warwick District Local Plan provided that:
+
+- a) No more than 50% of the street frontage concerned would result in a non-A1 use; and
+- b) The proposal would not contribute to creating a continuous non-A1 frontage of more than 16m.
+
+Proposals for uses other than those identified above in this policy, within the Secondary Retail Areas of the Creative Quarter south of the River Leam, and where criteria (a) and (b) are satisfied, may be accepted where it can be demonstrated that the scheme would support the overarching ambition, vision and objectives of the Creative Quarter as set out in Warwick District Council’s Big Picture document (and any subsequent publications). All such proposals must further demonstrate that they would maintain or enhance the vitality and sense of activity within the streetscene.
+
+Proposals that do not fulfil criterion b) within Secondary Retail Areas lying south of the River Leam and within the Creative Quarter, may be acceptable where it can be demonstrated that the scheme would support the overarching ambition, vision and objectives of the Creative Quarter as set out in Warwick District Council’s Big Picture document (and any subsequent publications). This may include use classes outlined above in this policy, or other use classes, where these would support the Creative Quarter. All such proposals must further demonstrate that they would maintain or enhance the vitality and sense of activity within the streetscene.
+
+## Policy RLS19 – Local Shopping Centres
+
+Development within the following local shopping centres identified on the Policies Map will be permitted in accordance with Warwick District Local Plan Policy TC17 Local Shopping Facilities.
+
+- RLS19/1 - Crown Way, Lillington
+- RLS19/2 - Rugby Road. Royal Leamington Spa
+- RLS19/3 - St Margaret’s Road, Royal Leamington Spa
+- RLS19/4 - Sydenham Drive. Royal Leamington Spa
+- RLS19/5 - Brunswick Street, Southborough Terrace, Royal Leamington Spa
+- RLS19/6 - Binswood Street, Royal Leamington Spa
+- RLS19/7 - Lansdowne Street, Royal Leamington Spa
+- RLS19/8 - Tachbrook Road, Royal Leamington Spa
+- 
+Within these areas proposals to improve the environment and security will be supported:
+
+- Lighting
+- CCTV
+- Bin and recycling provision
+- Seating
+- Information points (e.g. notice boards) and improved signage
+- Improvements to public transport and cycle parking infrastructure
+
