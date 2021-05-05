@@ -64,7 +64,7 @@ Development proposals that are within or directly affect a Conservation Area mus
 
 a) The proposed building type, style, materials and colours in relation to the character area in which it is located and its distinguishing features;
 
-b) Therelationshipoftheproposedlayouttotheexistingroadpattern,plot sizes, and the balance between buildings and garden spaces;
+b) The relationship of the proposed layout to the existing road pattern, plot sizes, and the balance between buildings and garden spaces;
 
 c) Building height, scale and rooflines sympathetic to the local setting;
 
